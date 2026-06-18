@@ -25,7 +25,7 @@ It provides an advanced Command-Line Interface (CLI) to simulate real banking op
 | 🏧 **Financial Transactions** | Deposit, withdraw, and transfer between accounts |
 | 📊 **Transaction Log** | Record all operations with display and search capabilities |
 | 🔐 **Authentication System** | Secure login with password and different permission levels |
-| 📋 **Comprehensive Reports** | View account statements and financial reports |
+
 
 ---
 
