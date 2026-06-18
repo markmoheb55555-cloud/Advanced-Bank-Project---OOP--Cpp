@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsUpdateCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsUpdateCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsTransferScreen.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsTransferScreen.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsManageUsers.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsManageUsers.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsCurrencyMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsCurrencyMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsCurrencyListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6151822C-CBC5-4F85-83C8-FD8D2959397E}|OOP Project 5\\OOP Project 5.vcxproj|solutionrelative:OOP Project 5\\clsCurrencyListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsBankClient.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsBankClient.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsBankClient.h",
+              "RelativeToolTip": "OOP Project 5\\clsBankClient.h",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAAAFYBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-24T12:29:38.202Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDepositScreen.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsDepositScreen.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsDepositScreen.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsDepositScreen.h",
+              "RelativeToolTip": "OOP Project 5\\clsDepositScreen.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAvwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-16T01:14:20.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsUpdateClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsUpdateClientScreen.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsUpdateClientScreen.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsUpdateClientScreen.h",
+              "RelativeToolTip": "OOP Project 5\\clsUpdateClientScreen.h",
+              "ViewState": "AgIAABwAAAAAAAAAAAAvwC4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-16T01:13:55.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsInputValidate.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsInputValidate.h",
+              "RelativeToolTip": "OOP Project 5\\clsInputValidate.h",
+              "ViewState": "AgIAADcAAAAAAAAAAAAvwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-16T00:56:13.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsTransferScreen.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsTransferScreen.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsTransferScreen.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsTransferScreen.h",
+              "RelativeToolTip": "OOP Project 5\\clsTransferScreen.h",
+              "ViewState": "AgIAACsAAAAAAAAAAAAvwDgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-16T00:57:27.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUpdateCurrencyScreen.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsUpdateCurrencyScreen.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsUpdateCurrencyScreen.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsUpdateCurrencyScreen.h",
+              "RelativeToolTip": "OOP Project 5\\clsUpdateCurrencyScreen.h",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAvwB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-14T23:49:46.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsCurrency.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsCurrency.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsCurrency.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsCurrency.h",
+              "RelativeToolTip": "OOP Project 5\\clsCurrency.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBQAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-13T01:49:08.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsCurrencyCalculatorScreen.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsCurrencyCalculatorScreen.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsCurrencyCalculatorScreen.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsCurrencyCalculatorScreen.h",
+              "RelativeToolTip": "OOP Project 5\\clsCurrencyCalculatorScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-15T16:19:23.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsAddNewClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsAddNewClientScreen.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsAddNewClientScreen.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsAddNewClientScreen.h",
+              "RelativeToolTip": "OOP Project 5\\clsAddNewClientScreen.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-16T01:01:24.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsWithdrawScreen.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsWithdrawScreen.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsWithdrawScreen.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsWithdrawScreen.h",
+              "RelativeToolTip": "OOP Project 5\\clsWithdrawScreen.h",
+              "ViewState": "AgIAACYAAAAAAAAAAAAvwDgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-16T01:11:20.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsManageUsers.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsManageUsers.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsManageUsers.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsManageUsers.h",
+              "RelativeToolTip": "OOP Project 5\\clsManageUsers.h",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-16T00:59:45.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsFindCurrencyScreen.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsFindCurrencyScreen.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsFindCurrencyScreen.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsFindCurrencyScreen.h",
+              "RelativeToolTip": "OOP Project 5\\clsFindCurrencyScreen.h",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-14T22:04:32.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsCurrencyMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsCurrencyMainScreen.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsCurrencyMainScreen.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsCurrencyMainScreen.h",
+              "RelativeToolTip": "OOP Project 5\\clsCurrencyMainScreen.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-14T00:29:44.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsCurrencyListScreen.h",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsCurrencyListScreen.h",
+              "RelativeDocumentMoniker": "OOP Project 5\\clsCurrencyListScreen.h",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\OOP Project 5\\OOP Project 5\\clsCurrencyListScreen.h",
+              "RelativeToolTip": "OOP Project 5\\clsCurrencyListScreen.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-14T00:42:24.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

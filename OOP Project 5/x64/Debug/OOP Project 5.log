@@ -1,0 +1,61 @@
+﻿  OOP Project 5.cpp
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsString.h(54,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsString.h(190,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsString.h(321,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsString.h(369,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsDate.h(773,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsDate.h(778,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsBankClient.h(192,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'OOP%20Project%205.cpp')
+      C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsBankClient.h(37,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsBankClient.h(34,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsBankClient.h(47,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsBankClient.h(48,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsBankClient.h(49,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsBankClient.h(427,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsBankClient.h(432,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsBankClient.h(443,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsCurrency.h(21,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Project%205.cpp')
+  
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsLoginScreen.h(53,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsBankClient.h(346,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Mark\source\repos\OOP Project 5\OOP Project 5\clsUser.h(347,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  OOP Project 5.vcxproj -> C:\Users\Mark\source\repos\OOP Project 5\x64\Debug\OOP Project 5.exe
